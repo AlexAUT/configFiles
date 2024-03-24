@@ -96,3 +96,8 @@
 	font-weight: 400;
 	font-family: sans-serif;
 }
+
+#custom-notification {
+  font-family: "NotoSansMono Nerd Font";
+  margin-right: 2px;
+}
